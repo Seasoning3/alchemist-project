@@ -6,7 +6,7 @@
 
 ## 2. 주요 주제
 ### 자동초점조절안경
-시선 추적 기반 자동 초점 조절 안경
+[Pupil Labs NEON](https://pupil-labs.com/products/neon) + [Optotune EL-16-40](https://www.optotune.com/product/el-16-40-tc/) 기반 전자식 자동 초점 조절 안경
 
 #### 사진
 ##### 렌더링
@@ -26,7 +26,7 @@ Pupil Labs NEON
 <br />
 → 장면 카메라 영상 내 시선 좌표 매핑
 <br />
-→ 양자화된 Depth Anything 3 모델
+→ 양자화된 [Depth Anything v3](https://github.com/bytedance-seed/depth-anything-3) 모델
 <br />
 → 깊이 및 대상 거리 추정
 <br />
@@ -49,7 +49,7 @@ Pupil Labs NEON
 → 자동 초점 및 시력 보정
 
 ### AR글래스
-갤럭시 XR 보드 기반 Optical see-through AR글래스
+[갤럭시 XR](https://www.samsung.com/sec/xr/galaxy-xr/galaxy-xr) 기반 Optical see-through AR글래스
 
 #### 사진
 #### 갤럭시 XR 분해도
