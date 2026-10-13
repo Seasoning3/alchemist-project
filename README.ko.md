@@ -6,9 +6,10 @@
 
 ## 2. 주요 주제
 ### 자동초점조절안경
-![자동초점조절안경_프로토타입](media/images/autofocus_prototype.png)
+![자동초점조절안경_프로토타입](autofocus-glasses/media/images/1.png)
 
 ### AR글래스
+![AR글라스_프로토타입](ar-glasses/media/images/1.png)
 
 ## 3. 역할
 - 테스트 회로 설계
