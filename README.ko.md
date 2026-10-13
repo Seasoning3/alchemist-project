@@ -6,6 +6,15 @@
 
 ## 2. 주요 주제
 ### 자동초점조절안경
+시선 추적 기반 자동 초점 조절 안경
+
+#### 사진
+##### 렌더링
+![자동초점조절안경_렌더링](autofocus-glasses/media/images/1.png)
+##### 시제품
+![자동초점조절안경_프로토타입_전면](autofocus-glasses/media/images/01.jpg)
+![자동초점조절안경_프로토타입_후면](autofocus-glasses/media/images/02.jpg)
+
 #### 시스템 작동 흐름
 Pupil Labs NEON
 <br />
@@ -39,14 +48,12 @@ Pupil Labs NEON
 <br />
 → 자동 초점 및 시력 보정
 
-##### 렌더링
-![자동초점조절안경_렌더링](autofocus-glasses/media/images/1.png)
-
-##### 시제품
-![자동초점조절안경_프로토타입_전면](autofocus-glasses/media/images/01.jpg)
-![자동초점조절안경_프로토타입_후면](autofocus-glasses/media/images/02.jpg)
-
 ### AR글래스
+갤럭시 XR 보드 기반 Optical see-through AR글래스
+
+#### 사진
+#### 갤럭시 XR 분해도
+![갤럭시_XR_분해도](ar-glasses/media/images/001.jpg)
 #### 테스트 벤치 렌더링
 ![AR글래스_렌더링](ar-glasses/media/images/1.png)
 #### 테스트 벤치 시제품
